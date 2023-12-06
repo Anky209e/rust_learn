@@ -1,5 +1,5 @@
 [package]
-name = "distance_convert"
+name = "variables"
 version = "0.1.0"
 edition = "2021"
 
